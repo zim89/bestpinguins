@@ -22,3 +22,10 @@ body {
 }
 
 /* ----------- HEADER ----------- */
+.nav-link {
+  color: tomato;
+}
+
+.current {
+  color: blueviolet;
+}
