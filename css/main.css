@@ -67,10 +67,23 @@ button {
 }
 
 /* ----------- HEADER ----------- */
-
+.header{
+  padding: 20px;
+background-color: tomato;
+}
 .header .container{
   display: flex;
   align-items: center;
+  
+}
+.hero-link{
+  width: 40px;
+  height: 40px;
+  background-color: red;
+  display: flex;
+  color: black;
+  align-items: center;
+  justify-content: center;
 }
 .nav {
   /* margin-left: auto; */
