@@ -67,6 +67,16 @@ button {
 }
 
 /* ----------- HEADER ----------- */
+
+.header .container{
+  display: flex;
+  align-items: center;
+}
+.nav-list{
+  display: flex;
+  align-items: center;
+
+}
 .nav-link {
   color: tomato;
 }
@@ -74,3 +84,4 @@ button {
 .current {
   color: blueviolet;
 }
+.
