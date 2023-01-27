@@ -79,11 +79,17 @@ button {
 .nav-list{
   display: flex;
   align-items: center;
-  
-
+  /* gap: 30px; */
 }
+
+.nav-item:not(:last-child) {
+margin-right: 30px;
+}
+
+
 .nav-link {
   color: tomato;
+  /* padding-left: 30px; */
 }
 
 .current {
