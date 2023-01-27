@@ -72,9 +72,14 @@ button {
   display: flex;
   align-items: center;
 }
+.nav {
+  /* margin-left: auto; */
+  margin-left: 50px;
+}
 .nav-list{
   display: flex;
   align-items: center;
+  
 
 }
 .nav-link {
